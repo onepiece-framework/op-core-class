@@ -59,7 +59,7 @@ class Encrypt
 		return $source;
 	}
 
-	/**	Enc is Encoding.
+	/**	Enc is encrypting.
 	 *
 	 * @param string $str
 	 * @param string $str
@@ -74,7 +74,7 @@ class Encrypt
 		return openssl_encrypt($str, self::algorithm, $password, 0, $iv);
 	}
 
-	/**	Dec is Decoding.
+	/**	Dec is decrypting.
 	 *
 	 * @param string $str
 	 * @param string $str
