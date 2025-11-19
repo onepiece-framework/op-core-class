@@ -3,6 +3,9 @@
  *
  * @created    2015-04-08
  * @updated    2016-11-17
+ * @version    1.0
+ * @package    op-core
+ * @subpackage class
  * @author     Tomoaki Nagahara
  * @copyright  Tomoaki Nagahara All right reserved.
  */
@@ -26,11 +29,6 @@ namespace OP;
  *
  * @created    2015-04-08
  * @updated    2016-11-17
- * @version    1.0
- * @package    op-core
- * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
  */
 class EMail
 {

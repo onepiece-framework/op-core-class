@@ -17,9 +17,6 @@ namespace OP;
 /**	Display debug_backtrace() variable.
  *
  * @created    2023-11-06
- * @version    1.0
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
  */
 class DebugBacktrace
 {

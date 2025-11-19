@@ -2,6 +2,9 @@
 /**	op-core-class:/Session.class.php
  *
  * @created    2021-05-15
+ * @version    1.0
+ * @package    op-core
+ * @subpackage class
  * @author     Tomoaki Nagahara
  * @copyright  Tomoaki Nagahara All right reserved.
  */
@@ -22,11 +25,6 @@ namespace OP;
  * </pre>
  *
  * @created    2021-05-15
- * @version    1.0
- * @package    op-core
- * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
  */
 class Session
 {

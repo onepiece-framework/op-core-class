@@ -2,6 +2,9 @@
 /**	op-core-class:/Encrypt.class.php
  *
  * @created    2017-11-22
+ * @version    1.0
+ * @package    op-core
+ * @subpackage class
  * @author     Tomoaki Nagahara
  * @copyright  Tomoaki Nagahara All right reserved.
  */
@@ -18,12 +21,8 @@ namespace OP;
 
 /**	Encrypt
  *
+ * @genesis    2012-??-??
  * @created    2017-11-22
- * @version    1.0
- * @package    op-core
- * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
  */
 class Encrypt
 {

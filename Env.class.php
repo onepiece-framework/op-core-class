@@ -3,6 +3,9 @@
  *
  * @genesis    2015-04-19  op-core-5:/Env.class.php
  * @moved      2025-06-19  op-core-class:/Env.class.php
+ * @version    1.0
+ * @package    op-core
+ * @subpackage class
  * @author     Tomoaki Nagahara
  * @copyright  Tomoaki Nagahara All right reserved.
  */
@@ -21,11 +24,6 @@ namespace OP;
  *
  * @deprecated 2025-06-16  OP_ENV delegating
  * @created    2014-01-22  Separated from OnePiece5
- * @version    1.0
- * @package    op-core
- * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
  */
 class Env
 {

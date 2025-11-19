@@ -2,6 +2,9 @@
 /**	op-core-class:/Cookie.class.php
  *
  * @created    2017-02-25
+ * @version    1.0
+ * @package    op-core
+ * @subpackage class
  * @author     Tomoaki Nagahara
  * @copyright  Tomoaki Nagahara All right reserved.
  */
@@ -27,11 +30,6 @@ include_once(__DIR__.'/../function/Hasha1.php');
  *    Cookie is stored user's browser. That is, User can change freely.
  *
  * @created    2017-02-25
- * @version    1.0
- * @package    op-core
- * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
  */
 class Cookie
 {

@@ -2,6 +2,9 @@
 /**	op-core-class:/MetaPath.class.php
  *
  * @created    2022-06-11
+ * @version    1.0
+ * @package    op-core
+ * @subpackage class
  * @author     Tomoaki Nagahara
  * @copyright  Tomoaki Nagahara All right reserved.
  */
@@ -19,11 +22,6 @@ namespace OP;
 /**	MetaPath
  *
  * @created    2022-06-11
- * @version    1.0
- * @package    op-core
- * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
  */
 class MetaPath
 {

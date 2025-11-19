@@ -5,7 +5,8 @@
  * @created    2016-11-28  by op-core-7:/Unit.class.php
  * @porting    2025-06-15  to op-core-class:/Unit.class.php
  * @version    1.0
- * @package    op-core-class
+ * @package    op-core
+ * @subpackage class
  * @author     Tomoaki Nagahara
  * @copyright  Tomoaki Nagahara All right reserved.
  */
@@ -29,10 +30,6 @@ namespace OP;
  * </pre>
  *
  * @created    2016-11-28
- * @version    1.0
- * @package    op-core
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
  */
 class Unit
 {

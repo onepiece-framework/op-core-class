@@ -20,10 +20,6 @@ namespace OP;
  *
  * @created    2018-04-04
  * @rebirth    2025-06-11
- * @version    1.0
- * @package    op-core-class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
  */
 class OP
 {
