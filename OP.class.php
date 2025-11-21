@@ -45,4 +45,5 @@ class OP
 	const _ADMIN_IP_	 = 'admin-ip';
 	const _ADMIN_MAIL_	 = 'admin-mail';
 	const _ADMIN_FROM_	 = 'admin-from';
+	const _APP_ID_       = 'app_id';
 }
