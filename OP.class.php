@@ -36,7 +36,7 @@ class OP
 //	use OP_OBJECT;
 	use OP_TEMPLATE;
 	use OP_ONEPIECE;
-//	use OP_DEPRECATE;
+	use OP_DEPRECATE;
 
 	/**	Constant
 	 *
