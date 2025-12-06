@@ -5,10 +5,10 @@
  *
  * @created    2022-09-30
  * @rebirth    2025-06-11
- * @version    1.0
- * @package    op-core-class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
+ * @license    Apache-2.0
+ * @package    op-core
+ * @subpackage class
+ * @copyright  (C) 2022 Tomoaki Nagahara
  */
 
 /**	namespace

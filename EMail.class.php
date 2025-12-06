@@ -3,11 +3,10 @@
  *
  * @created    2015-04-08
  * @updated    2016-11-17
- * @version    1.0
+ * @license    Apache-2.0
  * @package    op-core
  * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
+ * @copyright  (C) 2015 Tomoaki Nagahara
  */
 
 /**	namespace

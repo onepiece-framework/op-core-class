@@ -3,11 +3,10 @@
  *
  * @created    2014-11-29  at op-core-5:/Error.class.php
  * @rebirth    2025-06-11  to op-core-class:/Error.class.php
- * @version    1.0
+ * @license    Apache-2.0
  * @package    op-core
  * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
+ * @copyright  (C) 2014 Tomoaki Nagahara
  */
 
 /**	namespace

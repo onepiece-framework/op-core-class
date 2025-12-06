@@ -4,10 +4,10 @@
  * @genesis    ????-??-??  op-core-4:/OnePiece.class.php
  * @created    2016-11-17  op-core-7:/Notice.class.php
  * @version    2.0
+ * @license    Apache-2.0
  * @package    op-core
  * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
+ * @copyright  (C) 2016 Tomoaki Nagahara
  */
 
 /**	namespace

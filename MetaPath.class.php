@@ -2,11 +2,10 @@
 /**	op-core-class:/MetaPath.class.php
  *
  * @created    2022-06-11
- * @version    1.0
+ * @license    Apache-2.0
  * @package    op-core
  * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
+ * @copyright  (C) 2022 Tomoaki Nagahara
  */
 
 /**	Declare strict

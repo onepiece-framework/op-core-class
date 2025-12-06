@@ -2,11 +2,10 @@
 /**	op-core-class:/Cookie.class.php
  *
  * @created    2017-02-25
- * @version    1.0
+ * @license    Apache-2.0
  * @package    op-core
  * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
+ * @copyright  (C) 2017 Tomoaki Nagahara
  */
 
 /**	namespace

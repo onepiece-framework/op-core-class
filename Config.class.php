@@ -4,11 +4,10 @@
  * Purpose: Want to combine Env::Get()/Set() and Unit::Config().
  *
  * @created    2019-12-27
- * @version    1.0
+ * @license    Apache-2.0
  * @package    op-core
  * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
+ * @copyright  (C) 2019 Tomoaki Nagahara
  */
 
 /**	namespace

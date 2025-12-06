@@ -3,11 +3,10 @@
  *
  * @genesis    2015-04-19  op-core-5:/Env.class.php
  * @moved      2025-06-19  op-core-class:/Env.class.php
- * @version    1.0
+ * @license    Apache-2.0
  * @package    op-core
  * @subpackage class
- * @author     Tomoaki Nagahara
- * @copyright  Tomoaki Nagahara All right reserved.
+ * @copyright  (C) 2014 Tomoaki Nagahara
  */
 
 /**	Declare strict
